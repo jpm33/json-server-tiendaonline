@@ -1,0 +1,951 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nombre": "Despensa"
+    },
+    {
+      "id": 2,
+      "nombre": "Horno"
+    },
+    {
+      "id": 3,
+      "nombre": "Infantil"
+    },
+    {
+      "id": 4,
+      "nombre": "Mascotas"
+    },
+    {
+      "id": 5,
+      "nombre": "Bebidas"
+    },
+    {
+      "id": 6,
+      "nombre": "Platos preparados"
+    },
+    {
+      "id": 7,
+      "nombre": "Droguería y limpieza"
+    },
+    {
+      "id": 8,
+      "nombre": "Bazar"
+    },
+    {
+      "id": 9,
+      "nombre": "Frescos"
+    },
+    {
+      "id": 10,
+      "nombre": "Congelados y helados"
+    },
+    {
+      "id": 11,
+      "nombre": "Cuidado Personal"
+    }
+  ],
+  "productos": [
+    {
+      "id": 7306959,
+      "categoriaId": 1,
+      "marca": "",
+      "nombre": "Tomate Frito Ecológico Frasco",
+      "precio": 1.39,
+      "imagen": "imagenes/productos/7306959_001.jpg"
+    },
+    {
+      "id": 7305183,
+      "categoriaId": 1,
+      "marca": "",
+      "nombre": "Crema Aceto Balsámico Di Modena",
+      "precio": 2.65,
+      "imagen": "imagenes/productos/7305183_001.jpg"
+    },
+    {
+      "id": 7294382,
+      "categoriaId": 1,
+      "marca": "",
+      "nombre": "Yogur Original Natural Azucarado Pack 2 Ud.",
+      "precio": 1,
+      "imagen": "imagenes/productos/7294382_001.jpg"
+    },
+    {
+      "id": 7292357,
+      "categoriaId": 1,
+      "marca": "Cabo de Peñas",
+      "nombre": "Berberechos al Natural Bote",
+      "precio": 3.29,
+      "imagen": "imagenes/productos/7292357_001.jpg"
+    },
+    {
+      "id": 441618,
+      "categoriaId": 1,
+      "marca": "Alvalle",
+      "nombre": "Gazpacho Original",
+      "precio": 3.2,
+      "imagen": "imagenes/productos/441618_001.jpg"
+    },
+    {
+      "id": 7049240,
+      "categoriaId": 1,
+      "marca": "LA FALLERA",
+      "nombre": "Caldo para Paella Carne Frasco",
+      "precio": 3.55,
+      "imagen": "imagenes/productos/7049240_001.jpg"
+    },
+    {
+      "id": 7112605,
+      "categoriaId": 1,
+      "marca": "LU",
+      "nombre": "Galleta Mini Principe",
+      "PrecioAnterior": 0,
+      "precio": 1.25,
+      "imagen": "imagenes/productos/7112605_001.jpg"
+    },
+    {
+      "id": 7117070,
+      "categoriaId": 1,
+      "marca": "CABO PEÑAS",
+      "nombre": "Ventresca Atún Claro Aceite de Oliva",
+      "PrecioAnterior": 0,
+      "precio": 2.75,
+      "imagen": "imagenes/productos/7117070_001.jpg"
+    },
+    {
+      "id": 7332880,
+      "categoriaId": 1,
+      "marca": "HELLMANN'S",
+      "nombre": "Mayonesa Tarro Cristal",
+      "PrecioAnterior": 0,
+      "precio": 2.29,
+      "imagen": "imagenes/productos/7332880_001.jpg"
+    },
+    {
+      "id": 7194033,
+      "categoriaId": 1,
+      "marca": "VIEJA FABRICA",
+      "nombre": "Mermelada Melocotón Tarro",
+      "PrecioAnterior": 0,
+      "precio": 1.95,
+      "imagen": "7194033_001.jpg"
+    },
+    {
+      "id": 735340,
+      "categoriaId": 1,
+      "marca": "ASTURIANA",
+      "nombre": "Leche Desnatada Brik",
+      "precio": 0.76,
+      "imagen": "imagenes/productos/735340_001.jpg"
+    },
+    {
+      "id": 735423,
+      "categoriaId": 1,
+      "marca": "ASTURIANA",
+      "nombre": "Leche Entera Brik",
+      "precio": 0.76,
+      "imagen": "imagenes/productos/735423_001.jpg"
+    },
+    {
+      "id": 7220861,
+      "categoriaId": 2,
+      "marca": null,
+      "nombre": "Pan de Molde Integral",
+      "Descripcion": "Pan de Molde Integral 400 Gr",
+      "precio": 1.1,
+      "imagen": "imagenes/productos/7220861_001.jpg"
+    },
+    {
+      "id": 7276496,
+      "categoriaId": 2,
+      "marca": "DULCESOL",
+      "nombre": "Pan de Molde de Avena",
+      "Descripcion": "Pan de Molde de Avena 460 Gr",
+      "precio": 1.3,
+      "imagen": "imagenes/productos/7276496_001.jpg"
+    },
+    {
+      "id": 7344914,
+      "categoriaId": 2,
+      "marca": "RECONDO",
+      "nombre": "Mini Chapata Rústica",
+      "Descripcion": "Mini Chapata Rústica 100 Gr",
+      "precio": 1.69,
+      "imagen": "imagenes/productos/7344914_001.jpg"
+    },
+    {
+      "id": 7384456,
+      "categoriaId": 2,
+      "marca": null,
+      "nombre": "Hojaldre de Carne 1 Unidad",
+      "Descripcion": "Hojaldre de Carne 1 Unidad 130 Gr",
+      "precio": 1,
+      "imagen": "imagenes/productos/7384456_001.jpg"
+    },
+    {
+      "id": 7329860,
+      "categoriaId": 2,
+      "marca": null,
+      "nombre": "Pizza de Atún y Jamón York 1 Unidad",
+      "Descripcion": "Pizza de Atún y Jamón York 1 Unidad 155 Gr",
+      "precio": 1.44,
+      "imagen": "imagenes/productos/7329860_001.jpg"
+    },
+    {
+      "id": 7254907,
+      "categoriaId": 2,
+      "marca": "DULCESOL",
+      "nombre": "Pan de Molde Centeno",
+      "Descripcion": "Pan de Molde Centeno 800 Gr",
+      "precio": 1.5,
+      "imagen": "imagenes/productos/7254907_001.jpg"
+    },
+    {
+      "id": 7051597,
+      "categoriaId": 3,
+      "marca": "PULEVA",
+      "nombre": "Peques3 Crecimiento Preparado Lácteo",
+      "Descripcion": "Peques3 Crecimiento Preparado Lácteo 1 L",
+      "precio": 1.37,
+      "imagen": "imagenes/productos/7051597_001.jpg"
+    },
+    {
+      "id": 7311728,
+      "categoriaId": 3,
+      "marca": "NESTLE",
+      "nombre": "Tarrito Hortalizas con Ternera Bio",
+      "Descripcion": "Tarrito Hortalizas con Ternera Bio 190 Gr",
+      "precio": 1.99,
+      "imagen": "imagenes/productos/7311728_001.jpg"
+    },
+    {
+      "id": 7359565,
+      "categoriaId": 3,
+      "marca": "DODOT",
+      "nombre": "Pañal Bebé Activity T 4 9-14 Kilos",
+      "Descripcion": "Pañal Bebé Activity T 4 9-14 Kilos 58 U",
+      "precio": 17.55,
+      "imagen": "imagenes/productos/7359565_001.jpg"
+    },
+    {
+      "id": 7370398,
+      "categoriaId": 3,
+      "marca": "SMILEAT",
+      "nombre": "Pouch Fresa y Plátano",
+      "Descripcion": "Pouch Fresa y Plátano 100 Gr",
+      "precio": 1.1,
+      "imagen": "imagenes/productos/7370398_001.jpg"
+    },
+    {
+      "id": 2037653,
+      "categoriaId": 4,
+      "marca": "ULTIMA",
+      "nombre": "Comida Seca Perros Ultima de Pollo y Arroz",
+      "Descripcion": "Comida Seca Perros Ultima de Pollo y Arroz 3 Kg",
+      "precio": 10.95,
+      "imagen": "imagenes/productos/2037653_001.jpg"
+    },
+    {
+      "id": 2536704,
+      "categoriaId": 4,
+      "marca": "GOURMET",
+      "nombre": "Comida Húmeda Gatos Gourmet Gold Pescado",
+      "Descripcion": "Comida Húmeda Gatos Gourmet Gold Pescado 85 Gr",
+      "precio": 0.7,
+      "imagen": "imagenes/productos/2536704_001.jpg"
+    },
+    {
+      "id": 7274251,
+      "categoriaId": 4,
+      "marca": "VITALITY",
+      "nombre": "Salchicha Rica en Buey 1 Kilogramo",
+      "Descripcion": "Salchicha Rica en Buey 1 Kilogramo 1 U",
+      "precio": 1.35,
+      "imagen": "imagenes/productos/7274251_001.jpg"
+    },
+    {
+      "id": 7207579,
+      "categoriaId": 4,
+      "marca": "MARS",
+      "nombre": "Snacks para Gatos Catisfaction de Salmón",
+      "Descripcion": "Snacks para Gatos Catisfaction de Salmón 60 Gr",
+      "precio": 1.45,
+      "imagen": "imagenes/productos/7207579_001.jpg"
+    },
+    {
+      "id": 311712,
+      "categoriaId": 5,
+      "marca": "MAHOU",
+      "nombre": "Cerveza Lata",
+      "Descripcion": "Cerveza Lata 0,33 L",
+      "precio": 0.43,
+      "imagen": "imagenes/productos/311712_001.jpg"
+    },
+    {
+      "id": 465708,
+      "categoriaId": 5,
+      "marca": "MAHOU",
+      "nombre": "Cerveza Lata 5 Estrellas",
+      "Descripcion": "Cerveza Lata 0,33 L",
+      "precio": 0.57,
+      "imagen": "imagenes/productos/465708_001.jpg"
+    },
+    {
+      "id": 7119043,
+      "categoriaId": 5,
+      "marca": "DON SIMON",
+      "nombre": "Néctar Naranja Disfruta sin Azúcar Añadido Pet",
+      "Descripcion": "Néctar Naranja Disfruta sin Azúcar Añadido Pet 1,5 L",
+      "precio": 1.19,
+      "imagen": "imagenes/productos/7119043_001.jpg"
+    },
+    {
+      "id": 7374742,
+      "categoriaId": 5,
+      "marca": "COCA-COLA",
+      "nombre": "Refresco Cola Zero Lata",
+      "Descripcion": "Refresco Cola Zero Lata 0,33 L",
+      "precio": 0.75,
+      "imagen": "imagenes/productos/7374742_001.jpg"
+    },
+    {
+      "id": 308726,
+      "categoriaId": 5,
+      "marca": "SEVEN UP",
+      "nombre": "Refresco Lima Limón Lata",
+      "Descripcion": "Refresco Lima Limón Lata 0,33 L",
+      "precio": 0.48,
+      "imagen": "imagenes/productos/308726_001.jpg"
+    },
+    {
+      "id": 860932,
+      "categoriaId": 5,
+      "marca": "TRINA",
+      "nombre": "Refresco Naranja sin Gas Lata",
+      "Descripcion": "Refresco Naranja sin Gas Lata. 0,33 L",
+      "precio": 0.53,
+      "imagen": "imagenes/productos/860932_001.jpg"
+    },
+    {
+      "id": 7119118,
+      "categoriaId": 5,
+      "marca": "DON SIMON",
+      "nombre": "Néctar Naranja Zanahoria Mango sin Azúcar Añ. Pet",
+      "Descripcion": "Néctar Naranja Zanahoria Mango sin Azúcar Añ. Pet 1,5 L",
+      "precio": 1.19,
+      "imagen": "imagenes/productos/7119118_001.jpg"
+    },
+    {
+      "id": 7094233,
+      "categoriaId": 5,
+      "marca": "JIM BEAN",
+      "nombre": "Whisky Bourbon Americano",
+      "Descripcion": "Whisky Bourbon Americano 0,7 L",
+      "precio": 12.99,
+      "imagen": "imagenes/productos/7094233_001.jpg"
+    },
+    {
+      "id": 319640,
+      "categoriaId": 5,
+      "marca": "AQUARIUS",
+      "nombre": "Bebida Isotónica Limón Lata",
+      "Descripcion": "Bebida Isotónica Limón Lata 0,33 L",
+      "precio": 0.78,
+      "imagen": "imagenes/productos/319640_001.jpg"
+    },
+    {
+      "id": 317800,
+      "categoriaId": 5,
+      "marca": "NESTEA",
+      "nombre": "Refresco Te Lata",
+      "Descripcion": "Refresco Te Lata 0,33 L",
+      "precio": 0,
+      "imagen": "imagenes/productos/317800_001.jpg"
+    },
+    {
+      "id": 340315,
+      "categoriaId": 5,
+      "marca": "PEPSI-COLA",
+      "nombre": "Refresco Cola Max Lata",
+      "Descripcion": "Refresco Cola Max Lata 0,33 L",
+      "precio": 0.58,
+      "imagen": "imagenes/productos/340315_001.jpg"
+    },
+    {
+      "id": 7068919,
+      "categoriaId": 5,
+      "marca": "CUNE",
+      "nombre": "Vino Tinto Crianza D.O.Rioja",
+      "Descripcion": "Vino Tinto Crianza D.O.Rioja 375 ml",
+      "precio": 4.1,
+      "imagen": "imagenes/productos/7068919_001.jpg"
+    },
+    {
+      "id": 7184745,
+      "categoriaId": 5,
+      "marca": "YZAGUIRRE",
+      "nombre": "Vermouth Rojo",
+      "Descripcion": "Vermouth Rojo 1 L",
+      "precio": 7.15,
+      "imagen": "imagenes/productos/7184745_001.jpg"
+    },
+    {
+      "id": 364331,
+      "categoriaId": 6,
+      "marca": "G.BLANCA",
+      "nombre": "Sopa Deshidratada Ave y Fideos Sobre",
+      "Descripcion": "Sopa Deshidratada Ave y Fideos Sobre 76 Gr",
+      "precio": 0.55,
+      "imagen": "imagenes/productos/364331_001.jpg"
+    },
+    {
+      "id": 7231504,
+      "categoriaId": 6,
+      "marca": "G.BLANCA",
+      "nombre": "Yakisoba de Pollo Yatekomo",
+      "Descripcion": "Yakisoba de Pollo Yatekomo 93 Gr",
+      "precio": 1.59,
+      "imagen": "imagenes/productos/7231504_001.jpg"
+    },
+    {
+      "id": 336180,
+      "categoriaId": 6,
+      "marca": "LITORAL",
+      "nombre": "Cocido Madrileño Bote",
+      "Descripcion": "Cocido Madrileño Bote 440 Gr",
+      "precio": 1.95,
+      "imagen": "imagenes/productos/336180_001.jpg"
+    },
+    {
+      "id": 7154156,
+      "categoriaId": 6,
+      "marca": "DE ORO",
+      "nombre": "Rosca Rústica de Jamón Bacón y Queso",
+      "Descripcion": "Rosca Rústica de Jamón Bacón y Queso 480 Gr",
+      "precio": 2.99,
+      "imagen": "imagenes/productos/7154156_001.jpg"
+    },
+    {
+      "id": 7331536,
+      "categoriaId": 6,
+      "marca": "FLORISTAN",
+      "nombre": "Tortilla con Cebolla Mini",
+      "Descripcion": "Tortilla con Cebolla Mini 200 Gr",
+      "precio": 1.09,
+      "imagen": "imagenes/productos/7331536_001.jpg"
+    },
+    {
+      "id": 7349272,
+      "categoriaId": 6,
+      "marca": "DUNANY",
+      "nombre": "Lasaña de Pollo",
+      "Descripcion": "Lasaña de Pollo 350 Gr",
+      "precio": 2.6,
+      "imagen": "imagenes/productos/7349272_001.jpg"
+    },
+    {
+      "id": 7346083,
+      "categoriaId": 6,
+      "marca": "DELINATUR",
+      "nombre": "Fideuá de Pescado y Marisco",
+      "Descripcion": "Fideuá de Pescado y Marisco 280 Gr",
+      "precio": 2.89,
+      "imagen": "imagenes/productos/7346083_001.jpg"
+    },
+    {
+      "id": 7349285,
+      "categoriaId": 6,
+      "marca": "DUNANY",
+      "nombre": "Lasaña Vegetal",
+      "Descripcion": "Lasaña Vegetal 350 Gr",
+      "precio": 2.8,
+      "imagen": "imagenes/productos/7349285_001.jpg"
+    },
+    {
+      "id": 7220700,
+      "categoriaId": 6,
+      "marca": "APIS",
+      "nombre": "Magro de Cerdo Lata",
+      "Descripcion": "Magro de Cerdo Lata 220 Gr",
+      "precio": 2.55,
+      "imagen": "imagenes/productos/7220700_001.jpg"
+    },
+    {
+      "id": 7216679,
+      "categoriaId": 6,
+      "marca": "G.BLANCA",
+      "nombre": "Fideos Orientales Curry Yatekomo",
+      "Descripcion": "Fideos Orientales Curry Yatekomo 61 Gr",
+      "precio": 1.15,
+      "imagen": "imagenes/productos/7216679_001.jpg"
+    },
+    {
+      "id": 7240802,
+      "categoriaId": 6,
+      "marca": "LITORAL",
+      "nombre": "Lentejas con Verduras Lata",
+      "Descripcion": "Lentejas con Verduras Lata 425 Gr",
+      "precio": 1.55,
+      "imagen": "imagenes/productos/7240802_001.jpg"
+    },
+    {
+      "id": 7191591,
+      "categoriaId": 6,
+      "marca": "CHOVI",
+      "nombre": "Ensalada de Patatas con Allioli",
+      "Descripcion": "Ensalada de Patatas con Allioli 250 Gr",
+      "precio": 1,
+      "imagen": "imagenes/productos/7191591_001.jpg"
+    },
+    {
+      "id": 7180628,
+      "categoriaId": 7,
+      "marca": "GREEN NATURE",
+      "nombre": "Lote Estropajos Multiusos Varios Colores",
+      "Descripcion": "Lote Estropajos Multiusos Varios Colores 3 U",
+      "precio": 0.9,
+      "imagen": "imagenes/productos/7180628_001.jpg"
+    },
+    {
+      "id": 7254931,
+      "categoriaId": 7,
+      "marca": "FAIRY",
+      "nombre": "Lavavajillas Concentrado Aloe Vera",
+      "Descripcion": "Lavavajillas Concentrado Aloe Vera 0,82 L",
+      "precio": 2.7,
+      "imagen": "imagenes/productos/7254931.jpg"
+    },
+    {
+      "id": 7260474,
+      "categoriaId": 7,
+      "marca": "LAGARTO",
+      "nombre": "Blanqueador Percarbonato",
+      "Descripcion": "Blanqueador Percarbonato 0,7 Kg",
+      "precio": 1.79,
+      "imagen": "imagenes/productos/7260474_001.jpg"
+    },
+    {
+      "id": 7249548,
+      "categoriaId": 7,
+      "marca": "CRISTASOL",
+      "nombre": "Limpiacristales",
+      "Descripcion": "Limpiacristales 1,25 L",
+      "precio": 2.29,
+      "imagen": "imagenes/productos/7249548_001.jpg"
+    },
+    {
+      "id": 7356780,
+      "categoriaId": 7,
+      "marca": "JOSMI",
+      "nombre": "Amoniaco Muy Fuerte con Detergente",
+      "Descripcion": "Amoniaco Muy Fuerte con Detergente 0,75 L",
+      "precio": 1.2,
+      "imagen": "imagenes/productos/7356780_001.jpg"
+    },
+    {
+      "id": 7307643,
+      "categoriaId": 7,
+      "marca": "ASEVI",
+      "nombre": "Detergente Líquido Max",
+      "Descripcion": "Detergente Líquido Max 50 Lv",
+      "precio": 6.29,
+      "imagen": "imagenes/productos/7307643_001.jpg"
+    },
+    {
+      "id": 7106615,
+      "categoriaId": 7,
+      "marca": "DIXAN",
+      "nombre": "Detergente en Polvo",
+      "Descripcion": "Detergente en Polvo 55 Lv",
+      "precio": 9.99,
+      "imagen": "imagenes/productos/7106615_001.jpg"
+    },
+    {
+      "id": 7331580,
+      "categoriaId": 7,
+      "marca": "WIPP",
+      "nombre": "Detergente Gel Azul",
+      "Descripcion": "Detergente Gel Azul 40 Lv",
+      "precio": 9.29,
+      "imagen": "imagenes/productos/7331580_001.jpg"
+    },
+    {
+      "id": 97956,
+      "categoriaId": 7,
+      "marca": "CONEJO",
+      "nombre": "Lejía Multiusos Floral",
+      "Descripcion": "Lejía Multiusos Floral 2 L",
+      "precio": 1.85,
+      "imagen": "imagenes/productos/97956.jpg"
+    },
+    {
+      "id": 7098957,
+      "categoriaId": 7,
+      "marca": "TENN",
+      "nombre": "Limpiador Baño",
+      "Descripcion": "Limpiador Baño 1,3 L",
+      "precio": 2.35,
+      "imagen": "imagenes/productos/7098957_001.jpg"
+    },
+    {
+      "id": 401356,
+      "categoriaId": 7,
+      "marca": "PERLAN",
+      "nombre": "Detergente Líquido Prendas Delicadas",
+      "Descripcion": "Detergente Líquido Prendas Delicadas 25 Lv",
+      "precio": 1.99,
+      "imagen": "imagenes/productos/401356_001.jpg"
+    },
+    {
+      "id": 7153922,
+      "categoriaId": 7,
+      "marca": "BUFALO",
+      "nombre": "Crema Calzado Marrón Tarro 2 en 1",
+      "Descripcion": "Crema Calzado Marrón Tarro 2 en 1 40ml",
+      "precio": 2.65,
+      "imagen": "imagenes/productos/7153922_001.jpg"
+    },
+    {
+      "id": 7293322,
+      "categoriaId": 8,
+      "marca": "GUILLEM",
+      "nombre": "Percha Madera Natural 3 PCS/Set",
+      "Descripcion": "Percha Madera Natural 3 PCS/Set 3 U",
+      "precio": 2.99,
+      "imagen": "imagenes/productos/7293322_001.jpg"
+    },
+    {
+      "id": 7316651,
+      "categoriaId": 8,
+      "marca": "LOS RIVERA",
+      "nombre": "Briqueta Carbón Premium",
+      "Descripcion": "Briqueta Carbón Premium 3 Kg",
+      "precio": 2.99,
+      "imagen": "imagenes/productos/7316651_001.jpg"
+    },
+    {
+      "id": 7067445,
+      "categoriaId": 8,
+      "marca": "ALBAL",
+      "nombre": "Bolsas para Bocadillos",
+      "Descripcion": "Bolsas para Bocadillos 50 U",
+      "precio": 1.35,
+      "imagen": "imagenes/productos/7067445_001.jpg"
+    },
+    {
+      "id": 7274335,
+      "categoriaId": 8,
+      "marca": "CEYS",
+      "nombre": "SuperUnick Pincel 5 Gramos",
+      "Descripcion": "SuperUnick Pincel 5 Gramos 1 U",
+      "precio": 6.69,
+      "imagen": "imagenes/productos/7274335_001.jpg"
+    },
+    {
+      "id": 7246705,
+      "categoriaId": 8,
+      "marca": "CEYS",
+      "nombre": "Contactceys 30 Mililitros",
+      "Descripcion": "Contactceys 30 Mililitros 1 U",
+      "precio": 2.14,
+      "imagen": "imagenes/productos/7246705_001.jpg"
+    },
+    {
+      "id": 7292449,
+      "categoriaId": 8,
+      "marca": "CEYS",
+      "nombre": "Superunick Monodisis 3x1",
+      "Descripcion": "Superunick Monodisis 3x1 3 x 1 U",
+      "precio": 5.79,
+      "imagen": "imagenes/productos/7292449_001.jpg"
+    },
+    {
+      "id": 7258700,
+      "categoriaId": 8,
+      "marca": "FLAM UP",
+      "nombre": "Fósforos de Madera para Cocina",
+      "Descripcion": "Fósforos de Madera para Cocina 3 U",
+      "precio": 0.9,
+      "imagen": "imagenes/productos/7258700_001.jpg"
+    },
+    {
+      "id": 929307,
+      "categoriaId": 9,
+      "marca": "SERRANO",
+      "nombre": "Longaniza de Pascua",
+      "Descripcion": "Longaniza de Pascua 240 Gr",
+      "precio": 2.99,
+      "imagen": "imagenes/productos/929307_001.jpg"
+    },
+    {
+      "id": 4908406,
+      "categoriaId": 9,
+      "marca": "FLOR ESGUEVA",
+      "nombre": "Queso Oveja Cuña",
+      "Descripcion": "Queso Oveja Cuña 250 Gr",
+      "precio": 4.1,
+      "imagen": "imagenes/productos/4908406_001.jpg"
+    },
+    {
+      "id": 7131290,
+      "categoriaId": 9,
+      "marca": "FLORETTE",
+      "nombre": "Dúo Canónigo Rúcula Bolsa",
+      "Descripcion": "Dúo Canónigo Rúcula Bolsa 100 Gr",
+      "precio": 1.85,
+      "imagen": "imagenes/productos/7131290_001.jpg"
+    },
+    {
+      "id": 7170442,
+      "categoriaId": 9,
+      "marca": "FERRARINI",
+      "nombre": "Queso Rallado Parmigiano Reggiano",
+      "Descripcion": "Queso Rallado Parmigiano Reggiano 60 Gr",
+      "precio": 1.4,
+      "imagen": "imagenes/productos/7170442_001.jpg"
+    },
+    {
+      "id": 7200160,
+      "categoriaId": 9,
+      "marca": "JUAN LUNA",
+      "nombre": "Capricho Paleta Ibérica",
+      "Descripcion": "Capricho Paleta Ibérica 40 Gr",
+      "precio": 2,
+      "imagen": "imagenes/productos/7200160_001.jpg"
+    },
+    {
+      "id": 7207371,
+      "categoriaId": 9,
+      "marca": "GALBANI",
+      "nombre": "Mozzarella",
+      "Descripcion": "Mozzarella 100 Gr",
+      "precio": 1,
+      "imagen": "imagenes/productos/7207371_001.jpg"
+    },
+    {
+      "id": 7214757,
+      "categoriaId": 9,
+      "marca": "Philadelphia",
+      "nombre": "Philadelphia Natural Tarrina",
+      "Descripcion": "Philadelphia Natural Tarrina 350 Gr",
+      "precio": 2.69,
+      "imagen": "imagenes/productos/"
+    },
+    {
+      "id": 7181170,
+      "categoriaId": 9,
+      "marca": "ELPOZO",
+      "nombre": "Mortadela Siciliana Fina",
+      "Descripcion": "Mortadela Siciliana Fina 650 Gr",
+      "precio": 2,
+      "imagen": "imagenes/productos/7181170_001.jpg"
+    },
+    {
+      "id": 7155000,
+      "categoriaId": 9,
+      "marca": null,
+      "nombre": "Pieza precio aprox. - Melocotón Amarillo",
+      "Descripcion": "Melocotón Amarillo",
+      "precio": 0.55,
+      "imagen": "imagenes/productos/7155000_001.jpg"
+    },
+    {
+      "id": 63016,
+      "categoriaId": 9,
+      "marca": "Pieza precio aprox. - Tomate Pera",
+      "nombre": "Tomate Pera",
+      "Descripcion": "",
+      "precio": 0.22,
+      "imagen": "imagenes/productos/63016_001.jpg"
+    },
+    {
+      "id": 7269939,
+      "categoriaId": 9,
+      "marca": null,
+      "nombre": "Filete de Lubina",
+      "Descripcion": "Filete de Lubina 270 Gr\n\n",
+      "precio": 6.6,
+      "imagen": "imagenes/productos/7269939_001.jpg"
+    },
+    {
+      "id": 7229735,
+      "categoriaId": 9,
+      "marca": "LA HOGUERA",
+      "nombre": "Jamón G.Reserva Duroc Peso Aproximado 7,5 K",
+      "Descripcion": "Jamón G.Reserva Duroc Peso Aproximado 7,5 K",
+      "precio": 65,
+      "imagen": "imagenes/productos/7229735_001.jpg"
+    },
+    {
+      "id": 7320732,
+      "categoriaId": 10,
+      "marca": null,
+      "nombre": "Pieza precio aprox. - Cigala Mediana 16-20 Piezas/KIlo",
+      "Descripcion": "Cigala Mediana 16-20 Piezas/KIlo - Pieza 55 g aprox. - Congelado",
+      "precio": 1.2,
+      "imagen": "imagenes/productos/7320732_001.jpg"
+    },
+    {
+      "id": 5524400,
+      "categoriaId": 10,
+      "marca": "PESCANOVA",
+      "nombre": "Anillos a la Romana sin Gluten",
+      "Descripcion": "Anillos a la Romana sin Gluten 400 Gr",
+      "precio": 2.65,
+      "imagen": "imagenes/productos/5524400_001.jpg"
+    },
+    {
+      "id": 7169662,
+      "categoriaId": 10,
+      "marca": "DR.OETKER",
+      "nombre": "Pizza Tradizionale Speciale",
+      "Descripcion": "Pizza Tradizionale Speciale 385 Gr",
+      "precio": 3.9,
+      "imagen": "imagenes/productos/7169662_001.jpg"
+    },
+    {
+      "id": 7100779,
+      "categoriaId": 10,
+      "marca": "LA COCINERA",
+      "nombre": "Canelones de Atún",
+      "Descripcion": "Canelones de Atún 530 Gr",
+      "precio": 4.15,
+      "imagen": "imagenes/productos/7100779_001.jpg"
+    },
+    {
+      "id": 594994,
+      "categoriaId": 10,
+      "marca": "HAAGEN DAZS",
+      "nombre": "Tarrina de Vainilla con Cookies 460 Ml.",
+      "Descripcion": "Tarrina de Vainilla con Cookies 460 Ml. 386 Gr",
+      "precio": 5.35,
+      "imagen": "imagenes/productos/594994_001.jpg"
+    },
+    {
+      "id": 22319,
+      "categoriaId": 10,
+      "marca": "HAAGEN DAZS",
+      "nombre": "Tarrina Dulce de Leche 460 Ml.",
+      "Descripcion": "Tarrina Dulce de Leche 460 Ml. 400 Gr",
+      "precio": 5.35,
+      "imagen": "imagenes/productos/22319_001.jpg"
+    },
+    {
+      "id": 7212322,
+      "categoriaId": 10,
+      "marca": "HAAGEN DAZS",
+      "nombre": "Tarrinas Caramel Attraction P-4 x 95Ml.",
+      "Descripcion": "Tarrinas Caramel Attraction P-4 x 95Ml. 321 Gr",
+      "precio": 6.29,
+      "imagen": "imagenes/productos/7212322_001.jpg"
+    },
+    {
+      "id": 7118862,
+      "categoriaId": 10,
+      "marca": "NESTLE",
+      "nombre": "Chococlack Pack de 4 Unidades",
+      "Descripcion": "Chococlack Pack de 4 Unidades 264 Gr",
+      "precio": 2.99,
+      "imagen": "imagenes/productos/7118862_001.jpg"
+    },
+    {
+      "id": 441204,
+      "categoriaId": 11,
+      "marca": "EXCELLENCE",
+      "nombre": "Tinte Nº7 Rubio",
+      "Descripcion": "Tinte Nº7 Rubio 1 U",
+      "precio": 6.5,
+      "imagen": "imagenes/productos/441204_001.jpg"
+    },
+    {
+      "id": 934674,
+      "categoriaId": 11,
+      "marca": "DOVE",
+      "nombre": "Desodorante Spray Original",
+      "Descripcion": "Desodorante Spray Original 200 ml",
+      "precio": 2.1,
+      "imagen": "imagenes/productos/934674_001.jpg"
+    },
+    {
+      "id": 7055577,
+      "categoriaId": 11,
+      "marca": "DOVE",
+      "nombre": "Desodorante Spray Invisible",
+      "Descripcion": "Desodorante Spray Invisible 200 ml",
+      "precio": 2.99,
+      "imagen": "imagenes/productos/7055577_001.jpg"
+    },
+    {
+      "id": 7152754,
+      "categoriaId": 11,
+      "marca": "NIVEA",
+      "nombre": "Desodorante Spray Invisible Black&White",
+      "Descripcion": "Desodorante Spray Invisible Black&White 200 ml",
+      "precio": 2.45,
+      "imagen": "imagenes/productos/7152754_001.jpg"
+    },
+    {
+      "id": 7003767,
+      "categoriaId": 11,
+      "marca": "ANIAN",
+      "nombre": "Acondicionador Cabello Natural",
+      "Descripcion": "Acondicionador Cabello Natural 1000 ml",
+      "precio": 1.25,
+      "imagen": "imagenes/productos/7003767_001.jpg"
+    },
+    {
+      "id": 7192164,
+      "categoriaId": 11,
+      "marca": "NIVEA",
+      "nombre": "Crema Hidratante Soft Cara,Cuerpo y Manos",
+      "Descripcion": "Crema Hidratante Soft Cara,Cuerpo y Manos 300 ml",
+      "precio": 3.69,
+      "imagen": "imagenes/productos/7192164_001.jpg"
+    },
+    {
+      "id": 7120066,
+      "categoriaId": 11,
+      "marca": "LACTOVIT",
+      "nombre": "Body Milk Lactourea Pieles Deshidratadas",
+      "Descripcion": "Body Milk Lactourea Pieles Deshidratadas 400 ml",
+      "precio": 4.75,
+      "imagen": "imagenes/productos/7120066_001.jpg"
+    },
+    {
+      "id": 7095078,
+      "categoriaId": 11,
+      "marca": "GILLETTE",
+      "nombre": "Maquinilla Blue 3 Desechable Piel Sensible",
+      "Descripcion": "Maquinilla Blue 3 Desechable Piel Sensible 4 U",
+      "precio": 4.25,
+      "imagen": "imagenes/productos/7095078_001.jpg"
+    },
+    {
+      "id": 7236073,
+      "categoriaId": 11,
+      "marca": "COREGA",
+      "nombre": "Crema Fijadora Prótesis Extra Fuerte sin Sabor",
+      "Descripcion": "Crema Fijadora Prótesis Extra Fuerte sin Sabor 70 ml",
+      "precio": 13.5,
+      "imagen": "imagenes/productos/7236073_001.jpg"
+    },
+    {
+      "id": 7325426,
+      "categoriaId": 11,
+      "marca": "COREGA",
+      "nombre": "Crema Fijadora Extra Fuerte",
+      "Descripcion": "Crema Fijadora Extra Fuerte 70 Gr",
+      "precio": 13.5,
+      "imagen": "imagenes/productos/7325426.jpg"
+    },
+    {
+      "id": 7326994,
+      "categoriaId": 11,
+      "marca": "COLGATE",
+      "nombre": "Dentífrico Total Original",
+      "Descripcion": "Dentífrico Total Original 75 ml",
+      "precio": 1.95,
+      "imagen": "imagenes/productos/7326994_001.jpg"
+    }
+  ]
+}
